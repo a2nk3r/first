@@ -1,4 +1,4 @@
-//Kumar 106116007
+//Aman 106116007
 
 _Hello!_
 Hey My name is **Aman Kumar** and I'm from the **Computer Science & Engineering** Department. I hail from **Bokaro Steel City,Jharkhand**. I enjoy _listening to music_,_learning new things_ and _reading books_. I can speak **Hindi** & **English**.
