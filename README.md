@@ -6,4 +6,4 @@ I always give a try to every new language i listen about and would like to menti
 I somehow know **HTML** and **JavaScript**.
 My First Year at NITT was spent as a _memoir_ of learning experience because I have tried my hands on _lots of stuffs_.
 Now, I have applied for **Spider** _Inductions_ and hope to get inducted into the team. Even if I fail, I'll drive home lots of new stuffs that I'll learn throughout this process.
-Thank you!
+_Thank you_!
